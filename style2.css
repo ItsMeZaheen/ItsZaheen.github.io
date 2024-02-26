@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    background: #ffffff;
+}
+div{
+    font-family: 'monument', bold;
+    font-size: x-large;
+    display: contents;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 152, 152);
+    
+}
+a{
+    font-family: 'montserrat', bold;
+    font-size: medium;
+    
+
+}
